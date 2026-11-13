@@ -1,0 +1,13 @@
+{
+  "seller": "Tavlune Fasteners (Fictional)",
+  "currency": "USD",
+  "products": [
+    { "sku": "BLT-M8-Z", "name": "Hex bolt M8 zinc plated", "unit": "each", "price": 0.45, "qboItemId": "101", "aliases": [{ "buyer": "Orvella Fabrication (Fictional)", "partNumber": "OV-B08" }] },
+    { "sku": "NUT-M8-Z", "name": "Hex nut M8 zinc plated", "unit": "each", "price": 0.18, "qboItemId": "102", "aliases": [{ "buyer": "Orvella Fabrication (Fictional)", "partNumber": "OV-N08" }] },
+    { "sku": "WSH-M8-Z", "name": "Flat washer M8 zinc plated", "unit": "each", "price": 0.08, "qboItemId": "103", "aliases": [] },
+    { "sku": "BLT-M10-Z", "name": "Hex bolt M10 zinc plated", "unit": "each", "price": 0.68, "qboItemId": "104", "aliases": [] },
+    { "sku": "WSH-M8-S", "name": "Flat washer M8 stainless steel", "unit": "each", "price": 0.14, "qboItemId": "105", "aliases": [] },
+    { "sku": "TIE-200-B", "name": "Cable tie 200mm black", "unit": "pack", "price": 4.50, "qboItemId": "106", "aliases": [] },
+    { "sku": "SCR-M4-S", "name": "Socket cap screw M4 stainless steel", "unit": "box", "price": 8.25, "qboItemId": "107", "aliases": [] }
+  ]
+}

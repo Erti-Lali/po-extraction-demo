@@ -1,0 +1,43 @@
+{
+  "sourceSha256": "2c3474979ec6c17474353f9044a395cf0752f8c60288443e467bd44386a3caa5",
+  "extraction": {
+    "purchaseOrderNumber": "ORV-2202",
+    "buyer": "Orvella Fabrication (Fictional)",
+    "currency": "USD",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "sku": null,
+        "customerPartNumber": "OV-B08",
+        "description": "hex bolt M8 zinc plated",
+        "quantity": 120,
+        "unit": "each",
+        "unitPrice": 0.45,
+        "confidence": 0.98,
+        "evidence": "120 each of our part OV-B08 (hex bolt M8 zinc plated)"
+      },
+      {
+        "lineNumber": 2,
+        "sku": null,
+        "customerPartNumber": "OV-N08",
+        "description": "hex nut M8 zinc plated",
+        "quantity": 120,
+        "unit": "each",
+        "unitPrice": 0.18,
+        "confidence": 0.98,
+        "evidence": "120 each of OV-N08 (hex nut M8 zinc plated)"
+      },
+      {
+        "lineNumber": 3,
+        "sku": null,
+        "customerPartNumber": null,
+        "description": "Cable tie 200mm blak",
+        "quantity": 3,
+        "unit": "pack",
+        "unitPrice": 4.5,
+        "confidence": 0.96,
+        "evidence": "Also add 3 packs of cable ties"
+      }
+    ]
+  }
+}

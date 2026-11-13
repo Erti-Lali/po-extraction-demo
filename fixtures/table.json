@@ -1,0 +1,43 @@
+{
+  "sourceSha256": "681b9a4f181caa0d833fb128ba2363f05379ddc7bb5f8c264b58265b475810b1",
+  "extraction": {
+    "purchaseOrderNumber": "VEL-1101",
+    "buyer": "Velquora Assembly (Fictional)",
+    "currency": "USD",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "sku": "BLT-M8-Z",
+        "customerPartNumber": null,
+        "description": "Hex bolt M8 zinc plated",
+        "quantity": 200,
+        "unit": "each",
+        "unitPrice": 0.45,
+        "confidence": 0.99,
+        "evidence": "BLT-M8-Z Hex bolt M8 zinc plated 200 0.45 90.00"
+      },
+      {
+        "lineNumber": 2,
+        "sku": "NUT-M8-Z",
+        "customerPartNumber": null,
+        "description": "Hex nut M8 zinc plated",
+        "quantity": 200,
+        "unit": "each",
+        "unitPrice": 0.18,
+        "confidence": 0.99,
+        "evidence": "NUT-M8-Z Hex nut M8 zinc plated 200 0.18 36.00"
+      },
+      {
+        "lineNumber": 3,
+        "sku": "WSH-M8-Z",
+        "customerPartNumber": null,
+        "description": "Flat washer M8 zinc plated",
+        "quantity": 400,
+        "unit": "each",
+        "unitPrice": 0.08,
+        "confidence": 0.99,
+        "evidence": "WSH-M8-Z Flat washer M8 zinc plated 400 0.08 32.00"
+      }
+    ]
+  }
+}

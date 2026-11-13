@@ -1,0 +1,5 @@
+[
+  { "id": "table", "file": "samples/table-po.pdf", "fixture": "fixtures/table.json", "buyer": "Velquora Assembly (Fictional)", "qboCustomerId": "201" },
+  { "id": "email", "file": "samples/email-po.eml", "fixture": "fixtures/email.json", "buyer": "Orvella Fabrication (Fictional)", "qboCustomerId": "202" },
+  { "id": "multipage", "file": "samples/multipage-po.pdf", "fixture": "fixtures/multipage.json", "buyer": "Nimbrel Workshop (Fictional)", "qboCustomerId": "203" }
+]

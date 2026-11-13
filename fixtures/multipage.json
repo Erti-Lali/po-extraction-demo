@@ -1,0 +1,54 @@
+{
+  "sourceSha256": "ea285010e6f19292a28a0fbf8816882ac6a9bfab0bcfd541cdc957cd9da97fc8",
+  "extraction": {
+    "purchaseOrderNumber": "NIM-3303",
+    "buyer": "Nimbrel Workshop (Fictional)",
+    "currency": "USD",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "sku": "BLT-M10-Z",
+        "customerPartNumber": null,
+        "description": "Hex bolt M10 zinc plated",
+        "quantity": 50,
+        "unit": "each",
+        "unitPrice": 0.68,
+        "confidence": 0.99,
+        "evidence": "Quantity: 50 each | Unit price: USD 0.68"
+      },
+      {
+        "lineNumber": 2,
+        "sku": "SCR-M4-S",
+        "customerPartNumber": null,
+        "description": "Socket cap screw M4 stainless steel",
+        "quantity": 2,
+        "unit": "box",
+        "unitPrice": 8.25,
+        "confidence": 0.99,
+        "evidence": "Quantity: 2 boxes | Unit price: USD 8.25"
+      },
+      {
+        "lineNumber": 3,
+        "sku": "TIE-200-B",
+        "customerPartNumber": null,
+        "description": "Cable tie 200mm black",
+        "quantity": 5,
+        "unit": "pack",
+        "unitPrice": 4.5,
+        "confidence": 0.99,
+        "evidence": "Quantity: 5 packs | Unit price: USD 4.50"
+      },
+      {
+        "lineNumber": 4,
+        "sku": null,
+        "customerPartNumber": null,
+        "description": "Flat washer M8",
+        "quantity": 300,
+        "unit": "each",
+        "unitPrice": null,
+        "confidence": 0.88,
+        "evidence": "Quantity: 300 each. Finish unspecified; price not supplied."
+      }
+    ]
+  }
+}

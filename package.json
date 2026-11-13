@@ -1,0 +1,26 @@
+{
+  "name": "po-extraction-demo",
+  "version": "1.0.0",
+  "description": "Fictional purchase orders to reviewed catalog matches and QuickBooks Online Estimate drafts.",
+  "type": "module",
+  "license": "MIT",
+  "engines": { "node": ">=20.19.0" },
+  "scripts": {
+    "demo": "node scripts/run.mjs demo",
+    "samples:generate": "node scripts/run.mjs samples",
+    "typecheck": "node scripts/run.mjs typecheck",
+    "test": "node scripts/run.mjs test"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "0.131.0",
+    "pdfjs-dist": "5.6.205",
+    "zod": "4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "pdf-lib": "1.17.1",
+    "tsx": "^4.20.6",
+    "typescript": "5.9.3",
+    "vitest": "^4.0.18"
+  }
+}
